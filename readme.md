@@ -2,7 +2,9 @@ YouTube demo at - https://youtu.be/Kxow50bDHlA
 
 Content - 
 00:00 Introduction
+
 00:19 Overview
+
 02:07 Setup Gmail Account
 04:30 Create Google Cloud Project
 07:20 Install gcloud CLI
